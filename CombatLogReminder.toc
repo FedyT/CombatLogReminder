@@ -1,0 +1,6 @@
+## Interface: 110200
+## Title: Combat Log Reminder
+## Notes: Auto-enable combat log in dungeons + minimap toggle
+## Author: Fedy
+## Version: 1.1
+CombatLogReminder.lua
